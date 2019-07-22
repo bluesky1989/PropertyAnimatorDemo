@@ -1,0 +1,2 @@
+# PropertyAnimatorDemo
+ValueAnimator属性动画的使用详解，实现效果：使Button的宽度从150px变为500px
